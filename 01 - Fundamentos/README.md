@@ -1,7 +1,4 @@
-# Trybe - Leandro Batista de Carvalho
-Contém todas as atividades desenvolvidas por mim durante minha tragetória na Trybe
-
-## Fundamentos
+## Fundamentos do Desenvolvimento Web
 
 ### Bloco 1: Unix, Bash e Shell Script
 
