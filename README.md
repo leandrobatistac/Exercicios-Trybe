@@ -1,4 +1,4 @@
-# Exercicios-Trybe - Leandro Batista de Carvalho
+### Exercicios-Trybe
 Contém todas as atividades desenvolvidas por mim durante minha tragetória na Trybe
 
 ### Módulo 01
